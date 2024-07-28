@@ -14,7 +14,7 @@
             "email": "astimpay@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "php": ">=7.4.0"
     }
